@@ -7,7 +7,7 @@ with persistent state via PebbleDB.
 
 ### multiplication example
 
-`./run-sum`
+`./run-sum.sh`
 or
 `cd examples/sum && go run main.go`
 
